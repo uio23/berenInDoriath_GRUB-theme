@@ -1,4 +1,4 @@
-# berenInDoriath
+# berenInDoriath_GRUB-theme
 A Tolkien inspired GRUB2 theme with a gruvbox colour palette
 ## Demo
 ![demo](https://github.com/user-attachments/assets/0619d43e-f7b0-4079-8a74-30f421e5689d)
